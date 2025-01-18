@@ -54,7 +54,7 @@
         box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
     }
     .header-top{
-        border-bottom: 1px solid #3e4160;
+        border-bottom: 1px solid ##313131;
         .header-info-left{
             ul{
                 li{
@@ -141,7 +141,7 @@
                     & > a{
                         padding: 6px 10px !important;
                         font-size: 14px;
-                        color: #0b1c39;
+                        color: #313131;
                         &:hover{
                             color:$theme-color;
                             background: none;

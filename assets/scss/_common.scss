@@ -13,7 +13,7 @@ h4,
 h5,
 h6 {
 	font-family: $font_1;
-	color: #0b1c39;
+	color: #313131;
 
 	margin-top: 0px;
 	font-style: normal;
@@ -311,7 +311,7 @@ hr {
 	background:#fff;
 	-moz-user-select: none;
 	text-transform: uppercase;
-	color: #161e46;
+	color: #957648;
 	cursor: pointer;
 	display: inline-block;
 	font-size: 14px;
@@ -351,7 +351,7 @@ hr {
 
 .white-btn:hover::before {
 	transform: scaleY(1);
-	color: #161e46 !important;
+	color: #957648 !important;
 	z-index: -1;
 }
 
